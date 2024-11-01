@@ -1,4 +1,4 @@
-# Ripples
+# Ripple
 
 ## How to ues
 1. Modify the configuration file `./config.properties`
